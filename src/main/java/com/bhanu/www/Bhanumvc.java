@@ -14,7 +14,7 @@ public class Bhanumvc {
 	public String gethome() {
 		logger.info("application starated");
 		logger.info("application starated in jenkins");
-		return "Hello Bhanu successfully build in jenkins  ";
+		return "Hello Bhanu successfully build in jenkins  ;
 
 	}
 }
